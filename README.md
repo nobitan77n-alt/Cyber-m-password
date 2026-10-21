@@ -12,7 +12,7 @@ A privacy-focused web application that checks password strength locally and chec
 - **Responsive Interface** — Designed to work on desktop and mobile screens.
 - **No Account Required** — Use the checker without signing up.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack...
 - HTML5
 - CSS3
 - JavaScript
